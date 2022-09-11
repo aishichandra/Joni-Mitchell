@@ -7,6 +7,6 @@ My initiation into Joni Mitchell’s music was through Parenthood when Lauren Gr
 
 ### TOOLS USED
 To do this analysis, I scraped IMDB using <b>Beautiful Soup</b> and manually pulled from several other web sources to consolidate a list of soundtrack credits, categorizing them into three broad categories (TV Series, Movies, TV Performances), and eight subcategories (Long-Form TV series, Mini-Series, Movies (Fiction), Documentaries, TV Movie, Shorts, Talk Show, TV Special).
-Using <b>Python,</b> I calculated the moving average of the number of appearances across time to create a trend line. The graph was created on <b>RawGraphs</b>, exported as a SVG into <b>Adobe Illustrator</b> and edited there. I illustrated the header image using <b>Adobe Photoshop</b>
+Using <b>Python,</b> I calculated the moving average of the number of appearances across time to create a trend line. The graph was created on <b>RawGraphs</b>, exported as a SVG into <b>Adobe Illustrator</b> and edited there. I drew the header image on <b>Adobe Photoshop</b>
 
 
